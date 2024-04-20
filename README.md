@@ -1,6 +1,6 @@
 # NanoExpo Application
 
-You can just visit website, just click the [PREVIEW LINK](https://nataliiahen.github.io/Nano-Expo/)
+You can visit website, just click the [PREVIEW LINK](https://nataliiahen.github.io/Nano-Expo/)
 
 
 Or clone my repository and open locally.
