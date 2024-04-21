@@ -268,7 +268,7 @@ a {
 
 /* Company */
 .company {
-  padding-block: 95px 90px;
+  padding-block: 50px;
 }
 
 .company__about {
@@ -328,6 +328,10 @@ a {
 }
 
 @media (min-width: 1020px) {
+  .company {
+    padding-block: 95px 90px;
+  }
+
   .company__benefit-card {
     grid-column: span 1;
   }
@@ -446,14 +450,9 @@ a {
   align-items: center;
 }
 
-.footer__contact,
-.footer__address {
-  font-size: 16px;
-}
-
 .footer__contact {
   display: block;
-  font-size: 2.1rem;
+  font-size: 1.8rem;
   margin-bottom: 0.5rem;
   transition: color 300ms;
 }
@@ -508,6 +507,10 @@ a {
     padding-block: 1rem;
     text-decoration: none;
     font-size: 1.1rem;
+  }
+
+  .footer__contact {
+    font-size: 2.1rem;
   }
 
   .footer__contact:hover {
